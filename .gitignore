@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/iframe_figures/figure_36.html
+src/iframe_figures/figure_37.html
